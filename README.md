@@ -1,6 +1,6 @@
 <h1>Hi, I'm Pender! <br/><a href="https://github.com/apsessoms">Network Administrator</a>, <a href="https://www.linkedin.com/in/pendersessoms/">Transitioning Service Member</a> <h1> M.S. Cloud Computing
 
-<h2>👨‍💻 Home Lab Projects:</h2>
+<h2>:computer: Home Lab Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -20,7 +20,9 @@
 
 <h2>📺 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+:white_check_mark: CompTIA Security+
+:white_check_mark: CompTIA A+
+:white_check_mark: ITIL 4
 
 
 <h2> 🤳 Connect with me:</h2>
