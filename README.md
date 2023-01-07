@@ -21,6 +21,7 @@
 <h2>📺 Certifications</h2>
 
 :white_check_mark: CompTIA Security+
+:white_check_mark: CompTIA Network+
 :white_check_mark: CompTIA A+
 :white_check_mark: ITIL 4
 
