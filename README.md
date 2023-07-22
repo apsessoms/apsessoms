@@ -15,6 +15,7 @@
 :white_check_mark: CompTIA Network+
 :white_check_mark: CompTIA A+
 :white_check_mark: ITIL 4
+:white_check_mark: Microsoft AZ-900
 
 
 <h2> 🤳 Connect with me:</h2>
