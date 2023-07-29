@@ -3,13 +3,6 @@
 <h2>:computer: Home Lab Projects:</h2>
 [Create a Custom RBAC Role in Azure](https://github.com/apsessoms/AzureCustomRBACRole)
 
-
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
-
 - <b>PowerShell</b>
  
 - <b>Python</b>
