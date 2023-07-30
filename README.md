@@ -1,23 +1,28 @@
 <h1>Hi, I'm Pender! <br/><a href="https://github.com/apsessoms">Cloud Security Analyst</a>, <a href="https://www.linkedin.com/in/pendersessoms/">Transitioning Service Member</a> <h1> M.S. Cloud Computing
 
-<h2>:computer: Home Lab Projects:</h2>
-[Create a Custom RBAC Role in Azure](https://github.com/apsessoms/AzureCustomRBACRole)
+<h2>:computer: My Home Lab Projects:</h2>
 
-- <b>PowerShell</b>
- 
-- <b>Python</b>
-
+- [Create a Custom RBAC Role in Azure.](https://github.com/apsessoms/AzureCustomRBACRole)
+- [CIS Microsoft Azure Fundamental Benchmark KQL Queries](https://github.com/apsessoms/AzureKQLBenchmarks).
+- [Raspberry Pi Projects](https://github.com/apsessoms/RaspberryPiProjects). 
 
 <h2>📺 Certifications</h2>
 
 :white_check_mark: CompTIA Security+
+
 :white_check_mark: CompTIA Network+
+
 :white_check_mark: CompTIA A+
+
 :white_check_mark: ITIL 4
-:white_check_mark: Microsoft Security Operations Analyst Associate
-:white_check_mark: Microsoft Azure Fundamentals
-:white_check_mark: Microsoft 365 Fundamentals
-:white_check_mark: Microsoft Security, Compliance, and Identity Fundamentals
+
+:white_check_mark: Microsoft Security Operations Analyst Associate (SC-200)
+
+:white_check_mark: Microsoft Azure Fundamentals (AZ-900)
+
+:white_check_mark: Microsoft 365 Fundamentals (MS-900)
+
+:white_check_mark: Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
 
 <h2> 🤳 Connect with me:</h2>
 
