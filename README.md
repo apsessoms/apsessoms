@@ -2,7 +2,7 @@
 
 <h2>:computer: My Home Lab Projects:</h2>
 
-- [Administrative Walk Through Guides for Azure.](https://github.com/apsessoms/AzureCustomRBACRole)
+- [Administrative Walk Through Guides for Azure.](https://github.com/apsessoms/AzureCustomRBACRole) (Create custom RBAC roles using ARM templates, configure Azure disk encryption, create Azure file share, create a Mongo DB in AKS, & more)
 - [CIS Microsoft Azure Fundamental Benchmark KQL Queries](https://github.com/apsessoms/AzureKQLBenchmarks).
 - [Raspberry Pi Projects](https://github.com/apsessoms/RaspberryPiProjects). 
 
