@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pender! <br/><a href="https://github.com/apsessoms">Cloud Security</a>, <a href="https://www.linkedin.com/in/pendersessoms/">Transitioning Service Member</a> <h1> M.S. Cloud Computing
+<h1>Hi, I'm Pender! <br/><a href="https://github.com/apsessoms">Cloud Security</a>, <a href="https://www.linkedin.com/in/pendersessoms/">Veteran</a> <h1> M.S. Cloud Computing
 
 <h2>:computer: My Home Lab Projects:</h2>
 
