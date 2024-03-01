@@ -18,6 +18,8 @@
 
 :white_check_mark: Microsoft Security Operations Analyst Associate (SC-200)
 
+:white_check_mark: Microsoft Azure Administrator (AZ-104)
+
 :white_check_mark: Microsoft Azure Fundamentals (AZ-900)
 
 :white_check_mark: Microsoft 365 Fundamentals (MS-900)
