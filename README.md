@@ -1,10 +1,13 @@
 <h1>Hi, I'm Pender! <br/><a href="https://github.com/apsessoms">Cloud Security Engineer</a>, <a href="https://www.linkedin.com/in/pendersessoms/">Veteran</a> <h1> M.S. Cloud Computing
 
-<h2>:computer: My Home Lab Projects:</h2>
+<h2>:computer: My Projects:</h2>
 
-- [Administrative Walk Through Guides for Azure.](https://github.com/apsessoms/AzureCustomRBACRole) (Create custom RBAC roles using ARM templates, configure Azure disk encryption, create Azure file share, create a Mongo DB in AKS, & more)
+- [Administrative Walk Through Guides for Azure](https://github.com/apsessoms/AzureCustomRBACRole) (Create custom RBAC roles using ARM templates, configure Azure disk encryption, create Azure file share, create a Mongo DB in AKS, & more)
 - [CIS Microsoft Azure Fundamental Benchmark KQL Queries](https://github.com/apsessoms/AzureKQLBenchmarks).
-- [Raspberry Pi Projects](https://github.com/apsessoms/RaspberryPiProjects). 
+- [Reusable BICEP & ARM Templates for Azure with Step by Step Guidance](https://github.com/apsessoms/DevOps)
+- [Exploring Azure AI Services](https://github.com/apsessoms/AzureAI)
+- [Networking in the Cloud ☁️](https://github.com/apsessoms/Networking) A variety of projects designed to help you understand and implement different networking concepts in the cloud. 
+- [Raspberry Pi Projects](https://github.com/apsessoms/RaspberryPiProjects) 
 
 <h2>📺 Certifications</h2>
 
