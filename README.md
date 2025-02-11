@@ -6,6 +6,7 @@
 - [CIS Microsoft Azure Fundamental Benchmark KQL Queries](https://github.com/apsessoms/AzureKQLBenchmarks).
 - [Reusable BICEP & ARM Templates for Azure with Step by Step Guidance](https://github.com/apsessoms/DevOps)
 - [Exploring Azure AI Services](https://github.com/apsessoms/AzureAI)
+- [Kubernetes](https://github.com/apsessoms/Containers-K8s)
 - [Networking in the Cloud ☁️](https://github.com/apsessoms/Networking) A variety of projects designed to help you understand and implement different networking concepts in the cloud. 
 - [Raspberry Pi Projects](https://github.com/apsessoms/RaspberryPiProjects) 
 
